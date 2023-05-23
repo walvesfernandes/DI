@@ -1,0 +1,17 @@
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.Form1.resources
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.AssemblyInfo.cs
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.exe
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.deps.json
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.runtimeconfig.json
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.dll
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.pdb
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.dll
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\refint\Ejercicio3.dll
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.pdb
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.genruntimeconfig.cache
+C:\Users\w.alves\source\repos\Ejercicio3\Ejercicio3\obj\Debug\net6.0-windows\ref\Ejercicio3.dll
