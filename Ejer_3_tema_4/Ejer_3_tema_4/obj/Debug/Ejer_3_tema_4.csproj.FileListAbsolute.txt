@@ -1,0 +1,10 @@
+C:\Users\lpwil\source\repos\Ejer_3_tema_4\Ejer_3_tema_4\bin\Debug\Ejer_3_tema_4.exe.config
+C:\Users\lpwil\source\repos\Ejer_3_tema_4\Ejer_3_tema_4\bin\Debug\Ejer_3_tema_4.exe
+C:\Users\lpwil\source\repos\Ejer_3_tema_4\Ejer_3_tema_4\bin\Debug\Ejer_3_tema_4.pdb
+C:\Users\lpwil\source\repos\Ejer_3_tema_4\Ejer_3_tema_4\obj\Debug\Ejer_3_tema_4.csproj.AssemblyReference.cache
+C:\Users\lpwil\source\repos\Ejer_3_tema_4\Ejer_3_tema_4\obj\Debug\Ejer_3_tema_4.Form1.resources
+C:\Users\lpwil\source\repos\Ejer_3_tema_4\Ejer_3_tema_4\obj\Debug\Ejer_3_tema_4.Properties.Resources.resources
+C:\Users\lpwil\source\repos\Ejer_3_tema_4\Ejer_3_tema_4\obj\Debug\Ejer_3_tema_4.csproj.GenerateResource.cache
+C:\Users\lpwil\source\repos\Ejer_3_tema_4\Ejer_3_tema_4\obj\Debug\Ejer_3_tema_4.csproj.CoreCompileInputs.cache
+C:\Users\lpwil\source\repos\Ejer_3_tema_4\Ejer_3_tema_4\obj\Debug\Ejer_3_tema_4.exe
+C:\Users\lpwil\source\repos\Ejer_3_tema_4\Ejer_3_tema_4\obj\Debug\Ejer_3_tema_4.pdb
