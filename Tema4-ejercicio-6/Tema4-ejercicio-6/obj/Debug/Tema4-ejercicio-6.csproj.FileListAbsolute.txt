@@ -1,0 +1,11 @@
+C:\Users\lpwil\source\repos\Tema4-ejercicio-6\Tema4-ejercicio-6\bin\Debug\Tema4-ejercicio-6.exe.config
+C:\Users\lpwil\source\repos\Tema4-ejercicio-6\Tema4-ejercicio-6\bin\Debug\Tema4-ejercicio-6.exe
+C:\Users\lpwil\source\repos\Tema4-ejercicio-6\Tema4-ejercicio-6\bin\Debug\Tema4-ejercicio-6.pdb
+C:\Users\lpwil\source\repos\Tema4-ejercicio-6\Tema4-ejercicio-6\obj\Debug\Tema4-ejercicio-6.csproj.AssemblyReference.cache
+C:\Users\lpwil\source\repos\Tema4-ejercicio-6\Tema4-ejercicio-6\obj\Debug\Tema4_ejercicio_6.Form1.resources
+C:\Users\lpwil\source\repos\Tema4-ejercicio-6\Tema4-ejercicio-6\obj\Debug\Tema4_ejercicio_6.Properties.Resources.resources
+C:\Users\lpwil\source\repos\Tema4-ejercicio-6\Tema4-ejercicio-6\obj\Debug\Tema4-ejercicio-6.csproj.GenerateResource.cache
+C:\Users\lpwil\source\repos\Tema4-ejercicio-6\Tema4-ejercicio-6\obj\Debug\Tema4-ejercicio-6.csproj.CoreCompileInputs.cache
+C:\Users\lpwil\source\repos\Tema4-ejercicio-6\Tema4-ejercicio-6\obj\Debug\Tema4-ejercicio-6.exe
+C:\Users\lpwil\source\repos\Tema4-ejercicio-6\Tema4-ejercicio-6\obj\Debug\Tema4-ejercicio-6.pdb
+C:\Users\lpwil\source\repos\Tema4-ejercicio-6\Tema4-ejercicio-6\obj\Debug\Tema4_ejercicio_6.FormPin.resources
