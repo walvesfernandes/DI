@@ -1,0 +1,7 @@
+C:\Users\lpwil\Desktop\workspace\DI\tema5-ejercicio\DI5\DI5\bin\Debug\DI5.dll
+C:\Users\lpwil\Desktop\workspace\DI\tema5-ejercicio\DI5\DI5\bin\Debug\DI5.pdb
+C:\Users\lpwil\Desktop\workspace\DI\tema5-ejercicio\DI5\DI5\obj\Debug\DI5.TextboxLabel.resources
+C:\Users\lpwil\Desktop\workspace\DI\tema5-ejercicio\DI5\DI5\obj\Debug\nuevo componente.csproj.GenerateResource.cache
+C:\Users\lpwil\Desktop\workspace\DI\tema5-ejercicio\DI5\DI5\obj\Debug\nuevo componente.csproj.CoreCompileInputs.cache
+C:\Users\lpwil\Desktop\workspace\DI\tema5-ejercicio\DI5\DI5\obj\Debug\DI5.dll
+C:\Users\lpwil\Desktop\workspace\DI\tema5-ejercicio\DI5\DI5\obj\Debug\DI5.pdb

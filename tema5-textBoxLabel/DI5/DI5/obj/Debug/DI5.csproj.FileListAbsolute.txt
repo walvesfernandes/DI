@@ -1,0 +1,8 @@
+C:\Users\w.alves\source\repos\DI5\DI5\obj\Debug\DI5.csproj.AssemblyReference.cache
+C:\Users\w.alves\source\repos\DI5\DI5\obj\Debug\DI5.TextboxLabel.resources
+C:\Users\w.alves\source\repos\DI5\DI5\obj\Debug\DI5.csproj.GenerateResource.cache
+C:\Users\w.alves\source\repos\DI5\DI5\obj\Debug\DI5.csproj.CoreCompileInputs.cache
+C:\Users\w.alves\source\repos\DI5\DI5\bin\Debug\DI5.dll
+C:\Users\w.alves\source\repos\DI5\DI5\bin\Debug\DI5.pdb
+C:\Users\w.alves\source\repos\DI5\DI5\obj\Debug\DI5.dll
+C:\Users\w.alves\source\repos\DI5\DI5\obj\Debug\DI5.pdb
