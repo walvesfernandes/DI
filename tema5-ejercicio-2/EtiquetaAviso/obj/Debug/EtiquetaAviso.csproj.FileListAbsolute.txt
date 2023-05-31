@@ -1,0 +1,5 @@
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\EtiquetaAviso\bin\Debug\EtiquetaAviso.dll
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\EtiquetaAviso\bin\Debug\EtiquetaAviso.pdb
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\EtiquetaAviso\obj\Debug\EtiquetaAviso.csproj.CoreCompileInputs.cache
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\EtiquetaAviso\obj\Debug\EtiquetaAviso.dll
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\EtiquetaAviso\obj\Debug\EtiquetaAviso.pdb

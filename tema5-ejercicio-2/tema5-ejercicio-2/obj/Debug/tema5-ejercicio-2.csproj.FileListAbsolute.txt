@@ -1,0 +1,4 @@
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\tema5-ejercicio-2\obj\Debug\tema5-ejercicio-2.csproj.AssemblyReference.cache
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\tema5-ejercicio-2\obj\Debug\tema5_ejercicio_2.EtiquetaAviso.resources
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\tema5-ejercicio-2\obj\Debug\tema5-ejercicio-2.csproj.GenerateResource.cache
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\tema5-ejercicio-2\obj\Debug\tema5-ejercicio-2.csproj.CoreCompileInputs.cache
