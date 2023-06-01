@@ -15,11 +15,12 @@ namespace EtiquetaAviso
     {
         Nada,
         Cruz,
-        Circulo
+        Circulo,
+        Imagen
     }
     public partial class EtiquetaAviso : Control
     {
-
+        static Rectangle rect = new Rectangle();
         public EtiquetaAviso()
         {
             InitializeComponent();
@@ -92,6 +93,23 @@ namespace EtiquetaAviso
 
         }
 
+        private Image imgEtiqueta;
+        [Category("Appearance")]
+        [Description("Agrega una imagen a la etiqueta")]
+        public Image ImgEtiqueta
+        {
+
+            set
+            {
+                imgEtiqueta = value;
+                this.Refresh();
+            }
+            get
+            {
+                return imgEtiqueta;
+            }
+        }
+
         protected override void OnPaint(PaintEventArgs e)
         {
             base.OnPaint(e);
@@ -149,14 +167,44 @@ namespace EtiquetaAviso
                     //pueden realizar muchos y cogen memoria
                     lapiz.Dispose();
                     break;
+                case eMarca.Imagen:
+                    
+                    if (imgEtiqueta !=null)
+                    {
+
+                    offsetX = imgEtiqueta.Width;
+                    offsetY =(imgEtiqueta.Height-h)/2;
+                    
+                    g.DrawImage(imgEtiqueta,0, 0);
+                    }
+                    break;
             }
+            //para coger la area de la marca
+            rect.Width = offsetX;
+            rect.Height = offsetY*2;
             //Finalmente pintamos el Texto; desplazado si fuera necesario
             SolidBrush b = new SolidBrush(this.ForeColor);
             g.DrawString(this.Text, this.Font, b, offsetX + grosor, offsetY);
             Size tam = g.MeasureString(this.Text, this.Font).ToSize();
             this.Size = new Size(tam.Width + offsetX + grosor, tam.Height + offsetY * 2);
             b.Dispose();
+            
 
+        }
+
+        public event EventHandler ClickEnMarca;
+        protected override void OnMouseDown(MouseEventArgs e)
+        {
+            base.OnMouseDown(e);
+
+            if (Marca != eMarca.Nada && ClickEnMarca != null)
+            { 
+                //para coger la posicion donde hace click
+                if (rect.Contains(e.Location))
+                {
+                    ClickEnMarca.Invoke(this, EventArgs.Empty);
+                }
+            }
         }
         protected override void OnTextChanged(EventArgs e)
         {

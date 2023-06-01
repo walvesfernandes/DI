@@ -12,9 +12,21 @@ namespace Principal
 {
     public partial class Form1 : Form
     {
+        static int cont = 0;
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void etiquetaAviso2_ClickEnMarca(object sender, EventArgs e)
+        { 
+            cont++;
+            lblContador.Text = cont.ToString();
         }
     }
 }

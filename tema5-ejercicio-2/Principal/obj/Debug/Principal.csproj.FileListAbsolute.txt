@@ -1,0 +1,13 @@
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\bin\Debug\Principal.exe.config
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\bin\Debug\Principal.exe
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\bin\Debug\Principal.pdb
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\bin\Debug\EtiquetaAviso.dll
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\bin\Debug\EtiquetaAviso.pdb
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\obj\Debug\Principal.csproj.AssemblyReference.cache
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\obj\Debug\Principal.Form1.resources
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\obj\Debug\Principal.csproj.GenerateResource.cache
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\obj\Debug\Principal.csproj.CopyComplete
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\obj\Debug\Principal.exe
+C:\Users\lpwil\source\repos\tema5-ejercicio-2\Principal\obj\Debug\Principal.pdb
