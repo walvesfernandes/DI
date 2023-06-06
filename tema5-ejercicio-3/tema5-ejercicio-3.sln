@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tema5-ejercicio-3", "tema5-ejercicio-3\tema5-ejercicio-3.csproj", "{F1EBB727-57B8-4217-AE34-D1B3AA16666B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App-Reproductor de midia", "Reproductor de midia\App-Reproductor de midia.csproj", "{04E059D9-092E-4EB3-BF80-99BAB8892887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1EBB727-57B8-4217-AE34-D1B3AA16666B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EBB727-57B8-4217-AE34-D1B3AA16666B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EBB727-57B8-4217-AE34-D1B3AA16666B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EBB727-57B8-4217-AE34-D1B3AA16666B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E059D9-092E-4EB3-BF80-99BAB8892887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E059D9-092E-4EB3-BF80-99BAB8892887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E059D9-092E-4EB3-BF80-99BAB8892887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E059D9-092E-4EB3-BF80-99BAB8892887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FE7B7FF-0BE5-41FF-ADFF-43F475B2970D}
+	EndGlobalSection
+EndGlobal

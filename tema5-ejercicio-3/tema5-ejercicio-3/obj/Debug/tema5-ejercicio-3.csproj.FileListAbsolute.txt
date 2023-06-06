@@ -1,0 +1,7 @@
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\tema5-ejercicio-3\bin\Debug\tema5-ejercicio-3.dll
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\tema5-ejercicio-3\bin\Debug\tema5-ejercicio-3.pdb
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\tema5-ejercicio-3\obj\Debug\tema5_ejercicio_3.reproductor.resources
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\tema5-ejercicio-3\obj\Debug\tema5-ejercicio-3.csproj.GenerateResource.cache
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\tema5-ejercicio-3\obj\Debug\tema5-ejercicio-3.csproj.CoreCompileInputs.cache
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\tema5-ejercicio-3\obj\Debug\tema5-ejercicio-3.dll
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\tema5-ejercicio-3\obj\Debug\tema5-ejercicio-3.pdb

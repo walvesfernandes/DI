@@ -1,0 +1,13 @@
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\bin\Debug\Reproductor de midia.exe.config
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\bin\Debug\Reproductor de midia.exe
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\bin\Debug\Reproductor de midia.pdb
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\bin\Debug\tema5-ejercicio-3.dll
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\bin\Debug\tema5-ejercicio-3.pdb
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\obj\Debug\App-Reproductor de midia.csproj.AssemblyReference.cache
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\obj\Debug\Reproductor_de_midia.Form1.resources
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\obj\Debug\Reproductor_de_midia.Properties.Resources.resources
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\obj\Debug\App-Reproductor de midia.csproj.GenerateResource.cache
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\obj\Debug\App-Reproductor de midia.csproj.CoreCompileInputs.cache
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\obj\Debug\App-Reproductor de midia.csproj.CopyComplete
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\obj\Debug\Reproductor de midia.exe
+C:\Users\lpwil\source\repos\tema5-ejercicio-3\Reproductor de midia\obj\Debug\Reproductor de midia.pdb
