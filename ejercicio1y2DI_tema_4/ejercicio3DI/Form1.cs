@@ -15,21 +15,22 @@ namespace ejercicio3DI
         public Ejer3()
         {
             InitializeComponent();
+            this.FormClosing += CerrarFormulario; //asigno la funcion al evento (se puede hacer de modo grafico)
         }
 
         private void btnSalir(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Realmente quieres cerrar el formulario?", "Alerta", MessageBoxButtons.OKCancel) == DialogResult.OK) this.Close();
+            this.Close();
 
         }
 
         private void cambiarColor()
         {
 
-            Color miColor = new Color();
 
             try
             {
+                Color miColor = new Color();
                 msjError.Text = "";
                 int r = Convert.ToInt32(color1.Text);
                 int g = Convert.ToInt32(color2.Text);
@@ -82,9 +83,7 @@ namespace ejercicio3DI
 
         private void mouseTitle(object sender, MouseEventArgs e)
         {
-            Control c = new Control();
-            c = (Control)sender;
-
+            Control c = (Control)sender;
 
             //si contiene este componenete 
             if (this.Controls.Contains(c))
@@ -130,15 +129,6 @@ namespace ejercicio3DI
 
         }
 
-        private void Ejer3TeclaT(object sender, KeyEventArgs e)
-        {
-
-            if (e.KeyValue == 't')
-            {
-                cambiarTitulo();
-            }
-        }
-
         private void cambiarTitulo()
         {
             this.Text = "Colores e Imágenes";
@@ -149,6 +139,39 @@ namespace ejercicio3DI
             cambiarTitulo();
         }
 
+
+        private void CerrarFormulario(object sender, FormClosingEventArgs e)
+        {
+
+            DialogResult result = MessageBox.Show("Realmente quieres cerrar el formulario ? ", "Alerta", MessageBoxButtons.YesNo);
+
+            if (result == DialogResult.No)
+            {
+                e.Cancel = true; // Cancela el cierre
+            }
+            else
+            {
+                e.Cancel = false; // cierre 
+            }
         }
+
+   
+     
+        private void Ejer3_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Ejer3_KeyDown(object sender, KeyEventArgs e)
+        {
+
+            if (e.KeyCode == Keys.T)
+            {
+                cambiarTitulo();
+            }
+        }
+
+     
     }
+}
 

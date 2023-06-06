@@ -29,6 +29,7 @@ namespace ejercicio3DI
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Ejer3));
             this.salir = new System.Windows.Forms.Button();
             this.color1 = new System.Windows.Forms.TextBox();
@@ -43,7 +44,8 @@ namespace ejercicio3DI
             this.btnCambiar = new System.Windows.Forms.Button();
             this.msjError = new System.Windows.Forms.Label();
             this.imgBox = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnVerImg = new System.Windows.Forms.Button();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.imgBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -67,7 +69,6 @@ namespace ejercicio3DI
             this.color1.Name = "color1";
             this.color1.Size = new System.Drawing.Size(100, 20);
             this.color1.TabIndex = 0;
-            this.color1.TabStop = false;
             this.color1.Tag = "";
             this.color1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mouseTitle);
             // 
@@ -77,7 +78,6 @@ namespace ejercicio3DI
             this.color2.Name = "color2";
             this.color2.Size = new System.Drawing.Size(100, 20);
             this.color2.TabIndex = 1;
-            this.color2.TabStop = false;
             this.color2.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mouseTitle);
             // 
             // color3
@@ -86,7 +86,6 @@ namespace ejercicio3DI
             this.color3.Name = "color3";
             this.color3.Size = new System.Drawing.Size(100, 20);
             this.color3.TabIndex = 2;
-            this.color3.TabStop = false;
             this.color3.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mouseTitle);
             // 
             // label1
@@ -105,7 +104,7 @@ namespace ejercicio3DI
             this.imgRutaTxt.Name = "imgRutaTxt";
             this.imgRutaTxt.Size = new System.Drawing.Size(100, 20);
             this.imgRutaTxt.TabIndex = 4;
-            this.imgRutaTxt.TabStop = false;
+            this.toolTip1.SetToolTip(this.imgRutaTxt, "Ruta donde se encuetra la imagen que quieres mostrar");
             this.imgRutaTxt.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mouseTitle);
             // 
             // label2
@@ -155,6 +154,7 @@ namespace ejercicio3DI
             this.btnCambiar.Size = new System.Drawing.Size(105, 23);
             this.btnCambiar.TabIndex = 3;
             this.btnCambiar.Text = "color";
+            this.toolTip1.SetToolTip(this.btnCambiar, "Aplica la configuracion de colores que has elegido");
             this.btnCambiar.UseVisualStyleBackColor = true;
             this.btnCambiar.Click += new System.EventHandler(this.btnCambiar_Click);
             this.btnCambiar.MouseEnter += new System.EventHandler(this.btnCambiar_MouseEnter);
@@ -178,18 +178,19 @@ namespace ejercicio3DI
             this.imgBox.TabStop = false;
             this.imgBox.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mouseTitle);
             // 
-            // button1
+            // btnVerImg
             // 
-            this.button1.Location = new System.Drawing.Point(503, 128);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 13;
-            this.button1.Text = "ver img";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.verImg);
-            this.button1.MouseEnter += new System.EventHandler(this.btnCambiar_MouseEnter);
-            this.button1.MouseLeave += new System.EventHandler(this.btnCambiar_MouseEnter);
-            this.button1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mouseTitle);
+            this.btnVerImg.Location = new System.Drawing.Point(503, 128);
+            this.btnVerImg.Name = "btnVerImg";
+            this.btnVerImg.Size = new System.Drawing.Size(75, 23);
+            this.btnVerImg.TabIndex = 5;
+            this.btnVerImg.Text = "ver img";
+            this.toolTip1.SetToolTip(this.btnVerImg, "Click para ver la imagen");
+            this.btnVerImg.UseVisualStyleBackColor = true;
+            this.btnVerImg.Click += new System.EventHandler(this.verImg);
+            this.btnVerImg.MouseEnter += new System.EventHandler(this.btnCambiar_MouseEnter);
+            this.btnVerImg.MouseLeave += new System.EventHandler(this.btnCambiar_MouseEnter);
+            this.btnVerImg.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mouseTitle);
             // 
             // Ejer3
             // 
@@ -198,7 +199,7 @@ namespace ejercicio3DI
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.salir;
             this.ClientSize = new System.Drawing.Size(794, 538);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnVerImg);
             this.Controls.Add(this.imgBox);
             this.Controls.Add(this.msjError);
             this.Controls.Add(this.btnCambiar);
@@ -215,13 +216,15 @@ namespace ejercicio3DI
             this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.KeyPreview = true;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Ejer3";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Colores e Imágenes";
-            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Ejer3TeclaT);
+            this.Load += new System.EventHandler(this.Ejer3_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Ejer3_KeyDown);
             this.MouseEnter += new System.EventHandler(this.btnCambiar_MouseEnter);
             this.MouseLeave += new System.EventHandler(this.Ejer3_MouseLeave_1);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mouseTitle);
@@ -246,7 +249,8 @@ namespace ejercicio3DI
         private System.Windows.Forms.Button btnCambiar;
         private System.Windows.Forms.Label msjError;
         private System.Windows.Forms.PictureBox imgBox;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnVerImg;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 

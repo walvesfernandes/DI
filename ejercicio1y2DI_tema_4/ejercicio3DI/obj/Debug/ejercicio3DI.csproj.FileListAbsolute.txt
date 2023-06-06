@@ -28,3 +28,13 @@ C:\Users\lpwil\Desktop\workspace\DI\ejercicio3DI\ejercicio3DI\obj\Debug\ejercici
 C:\Users\lpwil\Desktop\workspace\DI\ejercicio3DI\ejercicio3DI\obj\Debug\ejercicio3DI.csproj.CoreCompileInputs.cache
 C:\Users\lpwil\Desktop\workspace\DI\ejercicio3DI\ejercicio3DI\obj\Debug\ejercicio3DI.exe
 C:\Users\lpwil\Desktop\workspace\DI\ejercicio3DI\ejercicio3DI\obj\Debug\ejercicio3DI.pdb
+C:\Users\lpwil\Downloads\DI\DI\ejercicio1y2DI_tema_4\ejercicio3DI\bin\Debug\ejercicio3DI.exe.config
+C:\Users\lpwil\Downloads\DI\DI\ejercicio1y2DI_tema_4\ejercicio3DI\bin\Debug\ejercicio3DI.exe
+C:\Users\lpwil\Downloads\DI\DI\ejercicio1y2DI_tema_4\ejercicio3DI\bin\Debug\ejercicio3DI.pdb
+C:\Users\lpwil\Downloads\DI\DI\ejercicio1y2DI_tema_4\ejercicio3DI\obj\Debug\ejercicio3DI.Ejer3.resources
+C:\Users\lpwil\Downloads\DI\DI\ejercicio1y2DI_tema_4\ejercicio3DI\obj\Debug\ejercicio3DI.Properties.Resources.resources
+C:\Users\lpwil\Downloads\DI\DI\ejercicio1y2DI_tema_4\ejercicio3DI\obj\Debug\ejercicio3DI.csproj.GenerateResource.cache
+C:\Users\lpwil\Downloads\DI\DI\ejercicio1y2DI_tema_4\ejercicio3DI\obj\Debug\ejercicio3DI.csproj.CoreCompileInputs.cache
+C:\Users\lpwil\Downloads\DI\DI\ejercicio1y2DI_tema_4\ejercicio3DI\obj\Debug\ejercicio3DI.exe
+C:\Users\lpwil\Downloads\DI\DI\ejercicio1y2DI_tema_4\ejercicio3DI\obj\Debug\ejercicio3DI.pdb
+C:\Users\lpwil\Downloads\DI\DI\ejercicio1y2DI_tema_4\ejercicio3DI\obj\Debug\ejercicio3DI.csproj.AssemblyReference.cache
